@@ -31,7 +31,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name='djangocms-column-Zephyrus5',
+    name='djangocms-column',
     version=__version__,
     description='Column Plugin for django CMS',
     author='Divio AG',
